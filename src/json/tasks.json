@@ -1,0 +1,49 @@
+[
+    {
+        "NameID": 0,
+        "Name": "Важное",
+        "Tasks":
+        [
+            {
+                "TaskID": 1,
+                "TaskName": "Help me",
+                "TaskDesc": "My PC crashed every time",
+                "Rank": "low",
+                "Client": "Andrew Rotacowski",
+                "INN": "22412412123",
+                "Agreement": "none",
+                "ServiceObject": "Yunosti, 22G, 'PivtOrg' Magazine",
+                "Equipment": "none"
+            },
+            {
+                "TaskID": 2,
+                "TaskName": "Help me",
+                "TaskDesc": "My PC crashed every time",
+                "Rank": "low",
+                "Client": "Andrew Rotacowski",
+                "INN": "22412412123",
+                "Agreement": "none",
+                "ServiceObject": "Yunosti, 22G, 'PivtOrg' Magazine",
+                "Equipment": "none"
+            }
+        ]
+    },
+    {
+        "NameID": 1,
+        "Name": "Не важное",
+        "Tasks":
+        [
+            {
+                "TaskID": 5,
+                "TaskName": "Важно.",
+                "TaskDesc": "My PC crashed every time",
+                "Rank": "high",
+                "Client": "Andrew Rotacowski",
+                "INN": "22412412123",
+                "Agreement": "none",
+                "ServiceObject": "Yunosti, 22G, 'PivtOrg' Magazine",
+                "Equipment": "none"
+            }
+        ]
+    }
+]

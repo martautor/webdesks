@@ -1,0 +1,76 @@
+body {
+    padding: 0;
+    margin: 0px;
+    height: 100%;
+    font-family: "Sen", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+     font-style: normal;
+}
+
+div {
+    padding: 0;
+    margin: 0;
+}
+.links {
+    text-decoration-line: none;
+}
+
+.App {
+    height: 100rem;
+    width: 100%;
+}
+
+.setting {
+    display: flex;
+}
+
+.tab {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.firstTap {
+    
+}
+
+.css-frgasg-MuiStack-root>:not(style)~:not(style) {
+    margin-top: 0px;
+}
+.card {
+    margin-right: 120px;
+}
+.tasks {
+    display: flex;
+}
+.users {
+}
+
+.tabs {
+    background: grey;
+    width: 15%;
+    text-align: center;
+    display: block;
+    margin: 10px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-between;
+    height: 70px;
+    border: 1px solid;
+    border-radius: 15% 15% 2% 2%;
+}
+
+.task {
+    align-items: center;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    
+}
